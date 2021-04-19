@@ -1,2 +1,2 @@
 # Play A Mini Game
-## [Start](home.md) the Adventure!
+## [Start](home.md) _the Adventure_!
