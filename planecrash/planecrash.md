@@ -3,4 +3,4 @@
 ---
 ## You became very tiresome and took a nap, until you heard a scream.
 # The plane is literally crashing!!
-## [Time to die](../death/death.md)
+## [Time to die](../death.md)
