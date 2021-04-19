@@ -2,5 +2,5 @@
 ## WYD?
 ---
 ### [Save this Money to go to College]()
-### [GO travel the World]()
+### [GO travel the World](worldtarvel/worldtravel.md)
 ### [Buy a Mansion for yourself](buyamansion/buyamansion.md)
