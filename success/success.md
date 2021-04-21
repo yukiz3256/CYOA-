@@ -4,5 +4,4 @@
 ## You were smart to spend your money wisley.
 ---
 ### want to see how your life would turn out using another option ??
----
-## [try again!!!]((../home.md))
+## [Restart!!!](../home.md)
