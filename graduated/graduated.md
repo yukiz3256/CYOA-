@@ -1,4 +1,3 @@
-# CYOA
 ## You Graduated CONGRATS !!! Be smart where do you wanna go?
 ---
 ## Select an option:
