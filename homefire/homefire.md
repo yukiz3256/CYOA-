@@ -6,3 +6,6 @@
 
 ### They came too late, you inhaked too much gass and unfurtontely you passed away :(
 ### Your money was then taken by some strnager and they became rich and you died alone. 
+
+## want to try again?
+[Start Over](../home.md)
