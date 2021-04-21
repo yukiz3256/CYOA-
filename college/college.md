@@ -3,6 +3,6 @@
 ---
 ## Select an option:
 ## [Continue Colloge](../graduated/graduated.md)
-## [Dropout](../dropout/droupout.md)
+## [Dropout](../dropout/dropout.md)
 ---
 [Start Over](../home.md)
