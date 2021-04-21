@@ -1,5 +1,6 @@
 # Okay! Your lazy. 
 ---
-## Would you like to
+## Your friend asks you to go Hawaii, wyd??
+### [Of course!](../worldtravel/worldtravel.)
 ### [Watch Netflix](../watchnetflix/watchednetflix.md)
-### Or [Play around in your big house](../homefire/homefire.md)
+### Or [Dont go](../homefire/homefire.md)
