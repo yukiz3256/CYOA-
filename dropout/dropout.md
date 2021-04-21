@@ -1,8 +1,8 @@
 # CYOA
-## Dropout
+## Dropout, now choose what do you want to spend your money on ! choose wisely.
 ---
 Select an option:
-## [Continue Colloge](graduated/graduated.md)
-## [Dropout](dropout/droupout.md)
+## [World Travel](../worldtravel/worldtravel.md)
+## [Buy a mansion](../buyamansion/buyamansion.md)
 ---
 [Start Over](../home.md)
