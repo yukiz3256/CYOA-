@@ -1,5 +1,5 @@
 # You Brought A Mansion!
 ---
 ## Do you want to:
-### [Travel the World](planecrash.md)
+### [Travel the World](../planecrash/planecrash.md)
 ### [Stay Home](youstayedhomeeveryday.md)
