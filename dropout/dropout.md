@@ -1,5 +1,5 @@
 # CYOA
-## College
+## Dropout
 ---
 Select an option:
 ## [Continue Colloge](graduated/graduated.md)
