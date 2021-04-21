@@ -1,4 +1,4 @@
-# You Won A Lottery!!!
+# You Won A Lottery!!! 
 ## WYD?
 ---
 ### [Save this Money to go to College](college/college.md)
